@@ -1,1 +1,5 @@
-eeeeeeeeeeeeee
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Sky Net Sports 1
+http://45.249.187.238:8081/hls/new1.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_PTV Sports
+http://45.249.187.238:8081/hls/hdmi3.m3u8
