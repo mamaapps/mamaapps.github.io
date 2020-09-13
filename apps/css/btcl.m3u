@@ -1,2 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Masrangga Tv
+http://iptv.kitv.live:1935/live/Shari/MTV-P/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",71 Tv
+http://iptv.kitv.live:1935/live/Shari/MTV-P/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Nagorik Tv
+http://iptv.kitv.live:1935/live/Shari/MTV-P/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Channel I
+http://iptv.kitv.live:1935/live/Shari/MTV-P/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Dipta Tv
+http://iptv.kitv.live:1935/live/Shari/MTV-P/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Gazi Tv
+http://iptv.kitv.live:1935/live/Shari/MTV-P/06.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Channel 9
+http://iptv.kitv.live:1935/live/Shari/MTV-P/07.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",SA Tv
+http://iptv.kitv.live:1935/live/Shari/MTV-P/08.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",N Tv
+http://iptv.kitv.live:1935/live/Shari/MTV-P/09.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",ATN Bangla
+http://iptv.kitv.live:1935/live/Shari/MTV-P/10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",R Tv
+http://iptv.kitv.live:1935/live/Shari/MTV-P/11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Independent Tv
+http://iptv.kitv.live:1935/live/Shari/MTV-P/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Jamuna Tv
+http://iptv.kitv.live:1935/live/Shari/MTV-P/13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Somoy Tv
+http://iptv.kitv.live:1935/live/Shari/MTV-P/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Etv
+http://iptv.kitv.live:1935/live/Shari/MTV-P/15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Channel 24
+http://iptv.kitv.live:1935/live/Shari/MTV-P/16.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Bangla Vision
+http://iptv.kitv.live:1935/live/Shari/MTV-P/17.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",MyTv
+http://iptv.kitv.live:1935/live/Shari/MTV-P/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",BTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/19.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Duronto Tv
 http://iptv.kitv.live:1935/live/Shari/MTV-P/63.m3u8
