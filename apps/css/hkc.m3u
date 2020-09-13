@@ -1,1 +1,31 @@
-ccccccc
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/YSFGwJhc/Nickelodeon-Sonic-logo.png" group-title="",Nick Sonic Bangla
+http://robi.iptv.digijadoo.net/live/sonic/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/L6hsprby/640px-Nick-Jr.png" group-title="",Nick JR.
+http://robi.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/fy1QZgVF/Nick-logo-2005.png" group-title="",Nick
+http://robi.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/ZKrJ44Lx/download.png" group-title="",CARTOON NETWORK
+http://iptv.kitv.live:1935/live/Shari/MTV-P/64.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="JADOO LIVE",NICK Bangla
+http://robi.iptv.digijadoo.net/live/nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4rEFCPQ.jpg" group-title="KIDS ENT.",Sony Yay HD
+http://watchindia.net:8443/live/53364/15983/2104.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS ENT.",Discovery Kids
+http://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="KIDS ENT.",Disney Hindi
+http://45.249.187.238:8081/hls/live0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RFVly85.png" group-title="KIDS ENT.",POGO
+http://starshare.live:8080/live/vip216/64587929/1918.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZKrJ44Lx/download.png" group-title="KIDS ENT.",Cartoon Network Hindi
+https://45.249.187.238:8081/hls/live0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="JADOO LIVE",Disney Junior
+http://ccn.anytv.live:8080/cartoonnet/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/RZsQF5SN/disney-xd.png" group-title="",DISNEY XD
+http://iptv.kitv.live:1935/live/Shari/MTV-P/65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/fL06Cf2f/Hungama-TV.png" group-title="",Hungama TV
+http://stream-e30453a4b.nmbs.top/m3u/Kids/1f3e9e6679.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="JADOO LIVE",BBC Cbeebies
+http://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png" group-title="KIDS ENT.",Disney XD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
