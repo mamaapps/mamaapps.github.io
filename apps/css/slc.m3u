@@ -6,11 +6,11 @@ http://45.249.187.238:8081/hls/hdmi3.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/44WKFwhs/download.jpg" group-title="",SONY Ten 1🔴
-http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
+https://103.49.168.172:8081/ebox/ten1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/44WKFwhs/download.jpg" group-title="",SONY Ten 2🔴
-http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
+https://103.49.168.172:8081/ebox/ten2/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/44WKFwhs/download.jpg" group-title="",SONY Six🔴
-http://103.49.168.172:8081/ebox/six/chunks.m3u8
+https://103.49.168.172:8081/ebox/six/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mks6wfFT/GTVBangladesh-Logo.png" group-title="MOVIE BAZAR TV",Gazi TV 🔴
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
@@ -74,20 +74,20 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/XNChs1Py/download.png" group-title="",Ads sport cricket
 http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="",Sony Ten 1 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/47.m3u8
+https://iptv.kitv.live:1935/live/Shari/MTV-P/47.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/02ZCnp9w/download.png" group-title="",SONY TEN 2 HD
 https://103.205.133.19/hls/ten2.m3u8
 http://iptv.kitv.live:1935/live/Shari/MTV-P/50.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/jd8zPth6/download.png" group-title="",SONY TEN 3
-http://103.205.133.19/hls/ten3.m3u8
+https://103.205.133.19/hls/ten3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/44WKFwhs/download.jpg" group-title="",SONY Six
-http://103.49.168.172:8081/ebox/six/chunks.m3u8
+https://103.49.168.172:8081/ebox/six/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/44WKFwhs/download.jpg" group-title="",SONY ESPN
-http://103.205.133.19/hls/sonysix.m3u8
+https://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/vBQB06Y4/download.jpg" group-title="",STAR SPORTS SELECT 1 HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/q7p4rV9Y/download.jpg" group-title="",STAR SPORTS 1 HD
-http://175.41.46.16:8081/hls/1.m3u8
+https://175.41.46.16:8081/hls/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/q7p4rV9Y/download.jpg" group-title="",STAR SPORTS 1
 http://ccn.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/15gz7SQr/download.jpg" group-title="",STAR SPORTS SELECT 2 HD
