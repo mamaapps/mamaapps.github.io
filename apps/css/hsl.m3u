@@ -1,14 +1,14 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Star Jalsha
-http://iptv.kitv.live:1935/live/Shari/MTV-P/22.m3u8
+https://iptv.kitv.live:1935/live/Shari/MTV-P/22.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",TravelXp
 http://iptv.kitv.live:1935/live/Shari/MTV-P/23.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",STAR Jalsha Movies
-http://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8
+https://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",STAR PLUS
-http://iptv.kitv.live:1935/live/Shari/MTV-P/27.m3u8
+https://iptv.kitv.live:1935/live/Shari/MTV-P/27.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",TRAVEL XP HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/23.m3u8
 
