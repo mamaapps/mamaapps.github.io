@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Star Jalsha
-http://103.141.66.36/bpk-tv/10234/default/index.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla HD" tvg-logo="" group-title="EBOX",Colors Bangla HD
-http://103.49.168.172:8081/ebox/in_colorsbangla/chunks.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Zee Bangla Cinema
-http://103.141.66.36/bpk-tv/10263/default/index.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Ruposhi Bangla
-http://103.141.66.36/bpk-tv/10111/default/index.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Akash 8
-http://103.141.66.36/bpk-tv/10112/default/index.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Zee Bangla
-http://103.141.66.36/bpk-tv/10185/default/index.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id= tvg-name= tvg-language= tvg-logo= group-title= ,Enterr10 Bangla
-http://103.141.66.36/bpk-tv/10187/default/index.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
