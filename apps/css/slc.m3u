@@ -1,158 +1,158 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Sky Net Sports 1
-http://45.249.187.238:8081/hls/new1.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_PTV Sports
-http://45.249.187.238:8081/hls/hdmi3.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/44WKFwhs/download.jpg" group-title="",SONY Ten 1🔴
-https://103.49.168.172:8081/ebox/ten1/chunks.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/44WKFwhs/download.jpg" group-title="",SONY Ten 2🔴
-https://103.49.168.172:8081/ebox/ten2/chunks.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/44WKFwhs/download.jpg" group-title="",SONY Six🔴
-https://103.49.168.172:8081/ebox/six/chunks.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mks6wfFT/GTVBangladesh-Logo.png" group-title="MOVIE BAZAR TV",Gazi TV 🔴
-http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.postimg.cc/mks6wfFT/GTVBangladesh-Logo.png" group-title="",Gazi Tv 🔴
-http://103.205.133.44:1935/live/Gtv/playlist.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.postimg.cc/mks6wfFT/GTVBangladesh-Logo.png" group-title="",Gazi Tv 🔴
-http://iptv.kitv.live:1935/live/Shari/MTV-P/06.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/vBQB06Y4/download.jpg" group-title="",STAR SPORTS SELECT 1 HD 🔴
-https://103.84.253.5/live/fastfeed1002/index.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/15gz7SQr/download.jpg" group-title="",STAR SPORTS SELECT 2 HD 🔴
-https://103.84.253.5/live/fastfeed1001/index.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",PKSPORTS HD 🔴
-http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/CxnqLy9M/Jalsha-movies.png" group-title="",Star Jalsha Movies
-https://iptv.kitv.live:1935/live/Shari/MTV-P/25.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Jalsha Movies [IN] (1)
-https://ccn.anytv.live:8080/jalshamovies/tracks-v1a1/mono.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Jalsha Movies [IN] 🔴
-https://otv.ftpbd.net/streams/115/index.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Jalsha Movies [IN] (3)
-https://randomserver.site:2086/live/Bria/Bria/94751.m3u8?checkedby:hlscat.com
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/XNChs1Py/download.png" group-title="",Ten Sports 🔴
-https://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/vBQB06Y4/download.jpg" group-title="",STAR SPORTS SELECT 1 HD
-https://otv.ftpbd.net/streams/113/index.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/q7p4rV9Y/download.jpg" group-title="",STAR SPORTS 1
-https://otv.ftpbd.net/streams/116/index.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/q7p4rV9Y/download.jpg" group-title="",STAR SPORTS 1 hindi
-https://185.232.53.4:2086/tbird/tbird/94788?checkedby:hlscat.com
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",STAR SPORTS 1 HINDI 🔴
-https://185.8.176.227:25461/strtester/ap8s9ndf709a8/68
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Star Sports 1 HD
-https://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33354
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",STAR SPORTS 1
-https://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Star Sports Select 1 HD
-https://45.249.187.238:8081/hls/new2.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Star Sports Select 1 HD
-https://linux-app.tv:8080/gazal999q0017/15902827285f28757baf6d9/33356
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="",Star Sports 2 
-https://103.205.133.14/hls/chss2.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/XNChs1Py/download.png" group-title="",D sports
-http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/XNChs1Py/download.png" group-title="",Ads sport cricket
-http://212.47.252.54/hls/stream.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="",Sony Ten 1 HD
-https://iptv.kitv.live:1935/live/Shari/MTV-P/47.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/02ZCnp9w/download.png" group-title="",SONY TEN 2 HD
-https://103.205.133.19/hls/ten2.m3u8
-http://iptv.kitv.live:1935/live/Shari/MTV-P/50.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/jd8zPth6/download.png" group-title="",SONY TEN 3
-https://103.205.133.19/hls/ten3.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/44WKFwhs/download.jpg" group-title="",SONY Six
-https://103.49.168.172:8081/ebox/six/chunks.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/44WKFwhs/download.jpg" group-title="",SONY ESPN
-https://103.205.133.19/hls/sonysix.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/vBQB06Y4/download.jpg" group-title="",STAR SPORTS SELECT 1 HD
-http://iptv.kitv.live:1935/live/Shari/MTV-P/51.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/q7p4rV9Y/download.jpg" group-title="",STAR SPORTS 1 HD
-https://175.41.46.16:8081/hls/1.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/q7p4rV9Y/download.jpg" group-title="",STAR SPORTS 1
-https://ccn.anytv.live:8080/starsp1/tracks-v1a1/mono.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/15gz7SQr/download.jpg" group-title="",STAR SPORTS SELECT 2 HD
-https://iptv.kitv.live:1935/live/Shari/MTV-P/52.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/NjjvC7mq/download.jpg" group-title="",SkyNet Sports 2
-https://iptv.kitv.live:1935/live/Shari/MTV-P/85.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/gj1M3T1d/download.png" group-title="",SkyNet Sports 1
-https://45.249.187.238:8081/hls/new1.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/9Fxn03RK/download.jpg" group-title="",Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/RV0gjPsR/download.jpg" group-title="",Edge Sports
-http://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/sxgJCXcX/download.png" group-title="",ESports 3
-http://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/pT2fKT3Z/download.png" group-title="",Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/rwXtSsrr/download.png" group-title="",Pro X
-http://vid.hls.protv.ro/proxhdn/proxhd.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/g0BhLDqY/download.png" group-title="",PTV Sports
-http://pioneer.anytv.live:8080/ptvsp/tracks-v1a1/mono.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/t4vJBg1k/download.png" group-title="",Euro Sports
-http://iptv.kitv.live:1935/live/Shari/MTV-P/48.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/XNChs1Py/download.png" group-title="",D SPORTS
-http://iptv.kitv.live:1935/live/Shari/MTV-P/54.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/kMT06RLT/download.png" group-title="",Redbull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/j2f3FCd7/download.png" group-title="",Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Bengali" tvg-logo="https://i.postimg.cc/j2f3FCd7/download.png" group-title="",Fox Sports
-http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QO8eHuB.jpg" group-title="SPORTS",Abu Dhabi Sports 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QO8eHuB.jpg" group-title="SPORTS",Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QO8eHuB.jpg" group-title="SPORTS",Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xsF6q5g.png?1" group-title="SPORTS",Al Kass Sports 1
-http://alkasmsl4.akamaized.net/hls/live/2003123/alkass1laoGlw/master.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xsF6q5g.png?1" group-title="SPORTS",Al Kass Sports 2
-http://alkasmsl4.akamaized.net/hls/live/2003123/alkass2baIzzy/master.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xsF6q5g.png?1" group-title="SPORTS",Al Kass Sports 3
-http://alkasmsl4.akamaized.net/hls/live/2003123/alkass4fzjeApo/master.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xsF6q5g.png?1" group-title="SPORTS",Al Kass Sports 4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xsF6q5g.png?1" group-title="SPORTS",Al Kass Sports 5
-http://alkasmsl4.akamaized.net/hls/live/2003123/alkass5Zpgdua/master.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",ALL Sports
-http://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",arriadia
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",arrabiaa
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",ATG
-http://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bahrain Sports
-http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bahrain Sports
-http://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",beIN Xtra
-http://bein-xtra-roku.amagi.tv/ingest/playlist1080p.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bek Sports East
-http://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Bek Sports West
-http://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Combat Go
-http://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
+http://mamaapps.github.io/apps/css/videoplayback.mp4
 
