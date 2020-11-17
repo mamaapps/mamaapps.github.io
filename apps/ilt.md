@@ -11,6 +11,6 @@ Non of the streams/videos are hosted on this website. All content is copyright o
 		<tr><th align="left">Category</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">Indian Live Tv</td><td align="right">115</td><td align="left"><code>https://mamaapps.github.io/apps/css/ilt.m3u</code></td></tr>
+		<tr><td align="left">We are currently stop this app.Download Play Tv From Play store for all channels.</td><td align="right">115</td><td align="left"><code>https://mamaapps.github.io/apps/css/ilt.m3u</code></td></tr>
 	</tbody>
 </table>
