@@ -11,6 +11,6 @@ Non of the streams/videos are hosted on this website. All content is copyright o
 		<tr><th align="left">Category</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">Channels Lists</td><td align="right">1</td><td align="left"><code>https://mamaapps.github.io/apps/css/adt.m3u</code></td></tr>
+		<tr><td align="left">We Stop this App Plz Download From Play Store: Adult Tv: Xstreams Hot 24/7 Warm Your Life</td><td align="right">1</td><td align="left"><code>https://mamaapps.github.io/apps/css/adt.m3u</code></td></tr>
 	</tbody>
 </table>
